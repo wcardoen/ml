@@ -1,2 +1,3 @@
 # ml
-ML explorations
+Machine Learning (ML) explorations
+
